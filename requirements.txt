@@ -1,0 +1,1 @@
+python-dotenvdotenvtelegramopenaipytzpytestpandasaioredisgspreadoauth2clientpython-telegram-botapscheduler
